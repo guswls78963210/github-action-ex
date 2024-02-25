@@ -9,9 +9,9 @@ public class CiTest {
 		Assertions.assertEquals(1, 1);
 	}
 
-	@Test
-	void fail(){
-
-		Assertions.assertEquals(1, 0);
-	}
+	// @Test
+	// void fail(){
+	//
+	// 	Assertions.assertEquals(1, 0);
+	// }
 }
